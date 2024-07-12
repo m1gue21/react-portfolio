@@ -32,8 +32,8 @@
     "imageClass": "devicon-ubuntu-plain colored"
   },
   {
-    "title": "NestJS",
-    "imageClass": "devicon-nestjs-original colored"
+    "title": "NextJS",
+    "imageClass": "devicon-nextjs-plain colored"
   },
   {
     "title": "Tailwind CSS",
@@ -48,8 +48,8 @@
     "imageClass": "devicon-nodejs-plain-wordmark colored"
   },
   {
-    "title": "NextJS",
-    "imageClass": "devicon-nextjs-plain colored"
+    "title": "NestJS",
+    "imageClass": "devicon-nestjs-original colored"
   },
   {
     "title": "PostgreSQL",

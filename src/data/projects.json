@@ -2,7 +2,7 @@
   {
     "title": "react-portfolio",
     "imageSrc": "projects/react-portfolio.png",
-    "description": "The code for this project is built using React and Vite, without using other libaries. This approach improve my coding skills in these technologies without the aid of libraries that might simplify the process.",
+    "description": "The code for this project is built using React and Vite, without relying on additional libraries. This approach helps me to refresh my skills in HTML, CSS, and JavaScript by not using extra libraries ",
     "skills": ["React", "Vite"],
     "demo": "https://www.example.com",
     "source": "https://github.com/m1gue21/react-portfolio"
