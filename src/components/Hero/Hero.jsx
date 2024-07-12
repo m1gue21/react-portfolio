@@ -3,13 +3,6 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const sendMessageToWhatsApp = () => {
-  const phoneNumber = "1234567890"; // Reemplaza con el número de teléfono al que quieres enviar el mensaje
-  const message = "Hola, me gustaría obtener más información."; // El mensaje predefinido
-  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
-  window.open(whatsappUrl, "_blank");
-};
-
 export const Hero = () => {
   return (
     <section className={styles.container}>

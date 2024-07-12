@@ -42,8 +42,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 150px; /* Aumenta el tamaño del contenedor */
+  height: 150px; /* Aumenta el tamaño del contenedor */
+}
+
+.skillImage {
+  font-size: 100px; /* Aumenta el tamaño del icono */
+  height: auto; /* Ajusta la altura automáticamente */
 }
 
 .skillImageContainer img {

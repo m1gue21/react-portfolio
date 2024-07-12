@@ -1,26 +1,27 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "react-portfolio",
+    "imageSrc": "projects/react-portfolio.png",
+    "description": "The code for this project is built using React and Vite, without using other libaries. This approach improve my coding skills in these technologies without the aid of libraries that might simplify the process.",
+    "skills": ["React", "Vite"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/m1gue21/react-portfolio"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    
+    "title": "Joselito's adventure ",
+    "imageSrc": "projects/joselitos.png",
+    "description": "A game built in record time as a requirement for my graduation, undoubtedly my favorite example of my quick adaptability and rapid problem-solving skills, utilizing Unity for development.",
+    "skills": ["Unity", "OOP"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/m1gue21/Joselito-s-Adventure"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Fruttask ",
+    "imageSrc": "projects/fruttask.png",
+    "description": "Fruttask, a project I'm currently developing, utilizes AstroJS and NestJS. It's designed to deepen my skills and explore new technologies. Currently in progress",
+    "skills": ["Astro", "Tailwind CSS", "NestJS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/m1gue21/fruttask-frontend"
   }
 ]

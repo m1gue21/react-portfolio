@@ -8,10 +8,10 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <img
+        <img 
           src={getImageUrl("about/aboutMigue.png")}
           alt="Me sitting with a laptop"
-          className={styles.aboutImage}
+          className={styles.aboutImg}
         />
         {/* TODO: hacer que los items de la lista sean clickeables, y expandan a un modal estilo tarjeta que amplié la informacion */}
         <ul className={styles.aboutItems}>
@@ -22,8 +22,9 @@ export const About = () => {
               <p>
                 I'm a frontend developer with experience in building responsive
                 and optimized sites. I have worked with various frameworks and
-                technologies, focusing professionally on Angular and Tailwind
-                CSS, but I have also explored different frameworks.
+                technologies, I have extensive experience with Angular, but I am
+                currently delving into other frameworks like React and
+                Astro.
               </p>
             </div>
           </li>
@@ -33,18 +34,19 @@ export const About = () => {
               <h3>Problem Solver & Innovator</h3>
               <p>
                 I excel at overcoming challenges and finding creative solutions.
-                During my time at a startup, I demonstrated this by quickly
-                adapting to new technologies and solving technical issues.
-                Additionally, I successfully developed{" "}
+                During my time at a startup and working on my personal projects,
+                I demonstrated this by quickly adapting to new technologies and
+                solving technical issues. My favourite example of that is the
+                game I developed when I was in School{" "}
                 <a
-                className={styles.aboutLink}
+                  class="aboutLink"
                   href="https://github.com/m1gue21/Joselito-s-Adventure"
                   target="_blank"
                 >
                   "Joselito's Adventure"
                 </a>
-                , a video game that showcases my ability to innovate and tackle
-                complex problems.
+                , it that showcases my ability to innovate and tackle complex
+                problems.
               </p>
             </div>
           </li>

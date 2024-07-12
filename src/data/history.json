@@ -1,29 +1,46 @@
 [
   {
+    "role": "Programming Technician",
+    "organisation": "SENA",
+    "startDate": "Jan, 2021",
+    "endDate": "Nov, 2022",
+    "experiences": ["Started my journey by studying this technical course while finishing school.","I learned the basics of Python, Java, and OOP." ],
+    "link": "history/sena.png"
+  },
+  {
+    "role": "Trainee Developer",
+    "organisation": "Porter",
+    "startDate": "Jan, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": ["Participated in a development bootcamp at Porter", "I deepened my foundations, got to know Angular, started writing much cleaner code, and learned design patterns."],
+    "link": "history/porter.png"
+  },
+  {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "organisation": "Universidad Iberoamericana",
+    "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "I started a Software Engineering degree at the Ibero-American University in the virtual modality."
     ],
-    "imageSrc": "history/netflix.png"
+    "link": "history/netflix.png"
+  },
+  {
+    "role": "Junior Developer (My 1st Job!!!)",
+    "organisation": "Porter",
+    "startDate": "Jul, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": ["Transformed the admin panel by upgrading from Angular 12 to 16", "Enhanced UI using Tailwind CSS.", "Integrated backend via AWS Services", "Addressed and resolved version compatibility issues."],
+    "link": "history/porter.png"
+  },
+  
+  {
+    "role": "Freelance Developer",
+    "organisation": "Kevin Jewerly",
+    "startDate": "Dic, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["I developed an application with some colleagues using Angular 17, Tailwind CSS, and NestJS as a freelance project for a relative."],
+    "link": "history/porter.png"
   }
+  
 ]

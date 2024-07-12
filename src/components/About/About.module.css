@@ -94,3 +94,18 @@
    color: aqua !important;
   }
 }
+
+.aboutImg {
+  border-radius: 50%; 
+  width: 150px;
+  
+  object-fit: cover; 
+
+  width: 50%;
+  z-index: 1;
+
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}

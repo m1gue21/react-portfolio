@@ -1,30 +1,62 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Javascript",
+    "imageClass": "devicon-javascript-plain colored"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Python",
+    "imageClass": "devicon-python-plain colored"
+  },
+  {
+    "title": "Unity",
+    "imageClass": "devicon-unity-plain colored"
+  },
+  {
+    "title": "Angular",
+    "imageClass": "devicon-angularjs-plain colored"
+  },
+  {
+    "title": "Bootstrap",
+    "imageClass": "devicon-bootstrap-plain colored"
+  },
+  {
+    "title": "AWS Services",
+    "imageClass": "devicon-amazonwebservices-plain-wordmark colored"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageClass": "devicon-react-original colored"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Ubuntu",
+    "imageClass": "devicon-ubuntu-plain colored"
+  },
+  {
+    "title": "NestJS",
+    "imageClass": "devicon-nestjs-original colored"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageClass": "devicon-tailwindcss-original colored"
   },
   {
     "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "imageClass": "devicon-graphql-plain colored"
+  },
+  {
+    "title": "NodeJS",
+    "imageClass": "devicon-nodejs-plain-wordmark colored"
+  },
+  {
+    "title": "NextJS",
+    "imageClass": "devicon-nextjs-plain colored"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageClass": "devicon-postgresql-plain colored"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageClass": "devicon-mongodb-plain colored"
   }
 ]
